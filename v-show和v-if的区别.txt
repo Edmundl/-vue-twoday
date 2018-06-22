@@ -1,0 +1,8 @@
+v-if是对html进行操作
+1、当值为 true时，显示div 
+2、当值为false时，改元素消失，代码也会消失，相当于将代码删除了
+   当在为true时，页面会重新渲染div; 
+
+v-show是对css进行操作
+1、display：none；隐藏
+2、display：block；显示
